@@ -1,0 +1,4 @@
+200,Asaftei Stefan,512031999243765:100,Ugly Love,O carte despre iubire,Colleen Hoover
+203,Aioanei Laura,623122000567456:101,Ub barbat pe nume Ove,O carte despre un batran,Fredrick Backman
+203,Aioanei Laura,623122000567456:102,Harry Potter si piatra filosofala,O carte despre magie,JK Rowlling
+201,Taranu Robert,503022000746599:103,Enigma Otiliei,O carte despre dragoste,George Calinescu

@@ -1,0 +1,6 @@
+100,Ugly Love,O carte despre iubire,Colleen Hoover
+101,Ub barbat pe nume Ove,O carte despre un batran,Fredrick Backman
+102,Harry Potter si piatra filosofala,O carte despre magie,JK Rowlling
+103,Enigma Otiliei,O carte despre dragoste,George Calinescu
+104,Acolo unde canta racii,O carte despre o fetita,Delia OWens
+105,Titlu,Descriere,Autor
