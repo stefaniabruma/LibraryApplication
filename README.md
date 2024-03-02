@@ -1,1 +1,1 @@
-This is a Python console application that manages a library's book borrowings.
+This is a Python console application that manages a library's lending system. 
